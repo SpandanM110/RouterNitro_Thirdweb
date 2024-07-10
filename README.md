@@ -1,6 +1,4 @@
-Certainly! Let's update the README to include the parallel auction system idea using Router Nitro and Thirdweb for listing, transferring, converting, and minting assets in real-time:
 
----
 
 # Router Nitro and Thirdweb Integration for Parallel Auction System
 
