@@ -11,7 +11,7 @@ const ChatPromptBox = () => {
 
   const generateResponse = async () => {
     const gemini = new Gemini({
-      apiKey: 'AIzaSyAGK19e8ot0sqJNosaTsnjQPmAY0bA_OnU', // Replace with your Gemini API key
+      apiKey: '', // Replace with your Gemini API key
       version: '1.5', // Ensure you are using Gemini 1.5 Pro
     });
 
