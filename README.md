@@ -2,6 +2,9 @@
 
 # Router Nitro and Thirdweb Integration for Parallel Auction System
 
+![image](https://github.com/SpandanM110/RouterNitro_Thirdweb/assets/95229740/918b9149-c19f-4937-9915-ef6dc7e6cee0)
+
+
 ## Overview
 
 This repository demonstrates the integration of Router Nitro and Thirdweb for building a parallel auction system. Router Nitro facilitates cross-chain asset transfers, while Thirdweb enhances asset management capabilities, including listing, transferring, converting, and minting assets across different blockchain networks.
