@@ -103,5 +103,3 @@ Modify and extend the codebase to fit your dapp’s requirements. Explore additi
 - [Supported Chains and Tokens](https://docs.routerprotocol.com/develop/voyager/voyager-v2.0/supported-chains-tokens) - Explore the list of supported chains and tokens compatible with Router Nitro and Thirdweb.
 
 ---
-
-Feel free to customize and expand this README based on additional features, examples, or specific use cases relevant to your project.
